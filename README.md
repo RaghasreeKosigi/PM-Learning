@@ -118,6 +118,26 @@ Due to screen width limitations, both epics appear together across screenshots.
 - Location-based recommendations
 
 ---
+### Day 4 – Design Thinking (PM / BA Perspective)
+
+Focus: Solving the right problem before building solutions
+Design Thinking is a human-centered framework that helps PMs and BAs align user needs, business value, and technical feasibility.
+
+## Stages Applied
+Empathize – Understand user pain points
+Define – Frame clear problem statements
+Ideate – Explore multiple solution paths
+Prototype – Visualize ideas quickly
+Test – Validate assumptions with users
+
+### Key Outputs
+User personas
+Problem statements
+Feature hypotheses
+Inputs for PRDs and user stories
+
+## Key Insight:
+Design Thinking ensures teams build the right product before building the product right.
 
 ## 🛠 Tools Used
 - **Trello** – Scrum board & sprint planning  
